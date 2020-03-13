@@ -25,4 +25,14 @@
     font-style: italic;
     color:green;
     font-family:"Goudy Old Style";
+    text-align: justify;
+}
+.TituloySubtituloAzul{
+    color: blue;
+}
+.Contenido2{
+    font-style: italic;
+    color: blue;
+    font-family: "Goudy old Style";
+    text-align: left;
 }
