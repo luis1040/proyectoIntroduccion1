@@ -12,3 +12,17 @@
 .Tamañofont{
     font-size: 1.2em;
 }  
+.Bannerpag1{
+    background-image: url(img/Bannerpag1.png);
+    width: 1900px;
+    height: 635;
+    background-attachment: fixed;
+}
+.TituloySubtituloVerde {
+    color: green;
+}
+.Contenido{
+    font-style: italic;
+    color:green;
+    font-family:"Goudy Old Style";
+}
