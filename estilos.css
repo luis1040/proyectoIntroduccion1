@@ -1,0 +1,14 @@
+.ColorfooterGris {
+     background-color: gray;
+     color: white;
+     text-align: center;
+    }
+.ImagenFondo {
+    background-image: url(img/Banner1.png);
+    width: 1900px;
+    height: 635px;
+    background-attachment: fixed;
+}  
+.Tamañofont{
+    font-size: 1.2em;
+}  
